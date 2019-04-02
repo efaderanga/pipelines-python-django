@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ActivateDevOps/AzureApp/_apis/build/status/efaderanga.pipelines-python-django?branchName=master)](https://dev.azure.com/ActivateDevOps/AzureApp/_build/latest?definitionId=28&branchName=master)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
